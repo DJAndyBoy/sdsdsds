@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.serbianforum.org/losmij/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/htv1.png"  group-title="HRVATSKA",HTV 1
 http://cms.radiokafic.com:8081/andyboydj/qoBvTxkno0/1489
 
