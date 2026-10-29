@@ -1,0 +1,565 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="SPORT" CUID="402" tvg-name="MAX SPORT 1 FHD (HR)" tvg-id="maxsport-1" catchup-type="xc" catchup-days="3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/MAXSport_1_HR_logo_v2.png",MAX SPORT 1 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/194560
+#EXTINF:0 group-title="SPORT" CUID="371" tvg-name="MAX SPORT 2 FHD (HR)" tvg-id="maxsport-2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/MAXSport_2_HR_logo_v2.png",MAX SPORT 2 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/215985
+#EXTINF:0 group-title="SPORT" CUID="46618" tvg-name="MAX SPORT 3 HD (HR)" tvg-id="maxsport1hr.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logos.siptvs.com/EXYU/maxsport/max-sport-3.png",MAX SPORT 3 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/222360.ts
+#EXTINF:0 group-title="SPORT" CUID="46617" tvg-name="MAX SPORT 4 HD (HR)" tvg-id="maxsport1hr.hr" tvg-logo="https://logos.siptvs.com/EXYU/maxsport/max-sport-4.png",MAX SPORT 4 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/222361.ts
+#EXTINF:0 group-title="SPORT" CUID="46616" tvg-name="MAX SPORT 5 HD (HR)" tvg-id="maxsport1hr.hr" tvg-logo="https://logos.siptvs.com/EXYU/maxsport/max-sport-5.png",MAX SPORT 5 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/222362.ts
+#EXTINF:0 group-title="SPORT" CUID="400" tvg-name="EUROSPORT 1 HD (SR)" tvg-id="eurosport1.rs" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/eurosport1.png",EUROSPORT 1 HD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/194511
+#EXTINF:0 group-title="SPORT" CUID="401" tvg-name="EUROSPORT 2 HD (SR)" tvg-id="eurosport2.rs" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/eurosport2.png",EUROSPORT 2 HD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/195019
+#EXTINF:0 group-title="SPORT" CUID="343" tvg-name="ARENA SPORT 1 HD (HR)" tvg-id="tv-arena-sport-1-hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60773
+#EXTINF:0 group-title="SPORT" CUID="344" tvg-name="ARENA SPORT 2 FHD (HR)" tvg-id="tv-arena-sport-2-hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60775
+#EXTINF:0 group-title="SPORT" CUID="345" tvg-name="ARENA SPORT 3 FHD (HR)" tvg-id="tv-arena-sport-3-hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60777
+#EXTINF:0 group-title="SPORT" CUID="346" tvg-name="ARENA SPORT 4 FHD (HR)" tvg-id="arena-sport-4-hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60779
+#EXTINF:0 group-title="SPORT" CUID="347" tvg-name="ARENA SPORT 5 FHD (HR)" tvg-id="arena-sport-5-hr" tvg-logo="https://logo.m3uassets.com/arenasport5.png",ARENA SPORT 5 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60781
+#EXTINF:0 group-title="SPORT" CUID="348" tvg-name="ARENA SPORT 6 FHD (HR)" tvg-id="arena-sport-6-hr" tvg-logo="https://logo.m3uassets.com/arenasport6.png",ARENA SPORT 6 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/74406
+#EXTINF:0 group-title="SPORT" CUID="349" tvg-name="ARENA SPORT 7 FHD (HR)" tvg-id="arena-sport-7-hr" tvg-logo="https://logo.m3uassets.com/arenasport7.png",ARENA SPORT 7 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/74407
+#EXTINF:0 group-title="SPORT" CUID="350" tvg-name="ARENA SPORT 8 FHD (HR)" tvg-id="arena-sport-8" tvg-logo="https://logo.m3uassets.com/arenasport8.png",ARENA SPORT 8 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/74408
+#EXTINF:0 group-title="SPORT" CUID="351" tvg-name="ARENA SPORT 9 FHD (HR)" tvg-id="arena-sport-9-hr" tvg-logo="https://logo.m3uassets.com/arenasport9.png",ARENA SPORT 9 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/74409
+#EXTINF:0 group-title="SPORT" CUID="352" tvg-name="ARENA SPORT 10 FHD (HR)" tvg-id="arena-sport-10-hr" tvg-logo="https://logo.m3uassets.com/arenasport10.png",ARENA SPORT 10 FHD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/74410
+#EXTINF:0 group-title="SPORT" CUID="377" tvg-name="SPORT KLUB 1 HD (HR)" tvg-id="sportklub-hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/sportklub1.png",SPORT KLUB 1 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60797
+#EXTINF:0 group-title="SPORT" CUID="379" tvg-name="SPORT KLUB 2 HD (HR)" tvg-id="sportklub2.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/sportklub2.png",SPORT KLUB 2 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60801
+#EXTINF:0 group-title="SPORT" CUID="380" tvg-name="SPORT KLUB 3 HD (HR)" tvg-id="sportklub3.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/sportklub3.png",SPORT KLUB 3 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60802
+#EXTINF:0 group-title="SPORT" CUID="381" tvg-name="SPORT KLUB 4 HD (HR)" tvg-id="sk4hr.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/sportklub4.png",SPORT KLUB 4 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60804
+#EXTINF:0 group-title="SPORT" CUID="382" tvg-name="SPORT KLUB 5 HD (HR)" tvg-id="sk5hr.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/sportklub5.png",SPORT KLUB 5 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60806
+#EXTINF:0 group-title="SPORT" CUID="34164" tvg-name="SPORT KLUB 6 HD (HR)" tvg-id="sk6hr.hr" tvg-logo="https://logo.m3uassets.com/sportklub6.png",SPORT KLUB 6 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236635.ts
+#EXTINF:0 group-title="SPORT" CUID="391" tvg-name="SPORT KLUB 7 HD (HR)" tvg-id="sk7hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub7.png",SPORT KLUB 7 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60809
+#EXTINF:0 group-title="SPORT" CUID="392" tvg-name="SPORT KLUB 8 HD (HR)" tvg-id="sk8hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub8.png",SPORT KLUB 8 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60810
+#EXTINF:0 group-title="SPORT" CUID="34170" tvg-name="SPORT KLUB 9 HD (HR)" tvg-id="sk9hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub9.png",SPORT KLUB 9 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236639.ts
+#EXTINF:0 group-title="SPORT" CUID="34173" tvg-name="SPORT KLUB 10 HD (HR)" tvg-id="sk10hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub10.png",SPORT KLUB 10 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236642.ts
+#EXTINF:0 group-title="SPORT" CUID="34174" tvg-name="SPORT KLUB 11 HD (HR)" tvg-id="sk11hrhr.hr" tvg-logo="https://www.a1.hr/documents/d/a1/sk_11",SPORT KLUB 11 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236643.ts
+#EXTINF:0 group-title="SPORT" CUID="34176" tvg-name="SPORT KLUB 12 HD (HR)" tvg-id="sk12hrhr.hr" tvg-logo="https://www.a1.hr/documents/d/a1/sk_12",SPORT KLUB 12 HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236645.ts
+#EXTINF:0 group-title="SPORT" CUID="331" tvg-name="ARENA PREMIUM 1 (SR)" tvg-id="arena-sport-1-premium" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arena1premium.png",ARENA PREMIUM 1 (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/133761
+#EXTINF:0 group-title="SPORT" CUID="333" tvg-name="ARENA PREMIUM 2 (SR)" tvg-id="arena-sport-2-premium" catchup-type="xc" catchup-days="3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png",ARENA PREMIUM 2 (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/133762
+#EXTINF:0 group-title="SPORT" CUID="335" tvg-name="ARENA PREMIUM 3 (SR)" tvg-id="arena-sport-3-premium" catchup-type="xc" catchup-days="3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png",ARENA PREMIUM 3 (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60771
+#EXTINF:0 group-title="SPORT" CUID="14020" tvg-name="ARENA PREMIUM 4 (SR)" tvg-id="arenapremium4.rs" catchup-type="xc" catchup-days="3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a4p.png",ARENA PREMIUM 4 (SR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/225457.ts
+#EXTINF:0 group-title="SPORT" CUID="14021" tvg-name="ARENA PREMIUM 5 (SR)" tvg-id="arenapremium5.rs" catchup-type="xc" catchup-days="3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-aa5p.png",ARENA PREMIUM 5 (SR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/225456.ts
+#EXTINF:0 group-title="SPORT" CUID="29938" tvg-name="ARENA BALKAN SPORT 1" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA BALKAN SPORT 1
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235620.ts
+#EXTINF:0 group-title="SPORT" CUID="29939" tvg-name="ARENA BALKAN SPORT 2" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA BALKAN SPORT 2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235621.ts
+#EXTINF:0 group-title="SPORT" CUID="29940" tvg-name="ARENA BALKAN SPORT 3" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA BALKAN SPORT 3
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235622.ts
+#EXTINF:0 group-title="SPORT" CUID="29941" tvg-name="ARENA BALKAN SPORT 4" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA BALKAN SPORT 4
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235623.ts
+#EXTINF:0 group-title="SPORT" CUID="415" tvg-name="SKY SPORT AUSTRIA 1" tvg-id="skysportaustria1.de" tvg-logo="https://logo.m3uassets.com/skysport1.png",SKY SPORT AUSTRIA 1
+http://balkan-live.net/andyboydj/pLbouEnHp/194519
+#EXTINF:0 group-title="SPORT" CUID="25240" tvg-name="SKY SPORT AUSTRIA 2 HD (AT)" tvg-id="skysportaustria2.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqk-VUA7a-eqFrUyG9XSpiW-YGDc0q44M9Q&s",SKY SPORT AUSTRIA 2 HD (AT)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231879.ts
+#EXTINF:0 group-title="SPORT" CUID="25241" tvg-name="SKY SPORT AUSTRIA 3 HD (AT)" tvg-id="skysportaustria3.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqk-VUA7a-eqFrUyG9XSpiW-YGDc0q44M9Q&s",SKY SPORT AUSTRIA 3 HD (AT)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231880.ts
+#EXTINF:0 group-title="SPORT" CUID="418" tvg-name="SKY SPORT F1 FHD (DE)" tvg-id="SkySportF1.de" tvg-logo="https://logo.m3uassets.com/skysportf1.png",SKY SPORT F1 FHD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/192669
+#EXTINF:0 group-title="SPORT" CUID="434" tvg-name="SKY SPORTS F1 FHD (UK)" tvg-id="skysportsf1.uk" tvg-logo="https://logo.m3uassets.com/skysportsf1.png",SKY SPORTS F1 FHD (UK)
+http://balkan-live.net/andyboydj/pLbouEnHp/164130
+#EXTINF:0 group-title="SPORT" CUID="426" tvg-name="SKY SPORT 1 HD (DE)" tvg-id="SkySport1.de" tvg-logo="https://logo.m3uassets.com/skysport1.png",SKY SPORT 1 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/164134
+#EXTINF:0 group-title="SPORT" CUID="427" tvg-name="SKY SPORT 2 HD (DE)" tvg-id="SkySport2.de" tvg-logo="https://logo.m3uassets.com/skysport2.png",SKY SPORT 2 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/164135
+#EXTINF:0 group-title="SPORT" CUID="428" tvg-name="SKY SPORT 3 HD (EVENT ONLY) (DE)" tvg-id="skysport3.de" tvg-logo="https://logo.m3uassets.com/skysport3.png",SKY SPORT 3 HD (EVENT ONLY) (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/164136
+#EXTINF:0 group-title="SPORT" CUID="429" tvg-name="SKY SPORT 4 HD (EVENT ONLY) (DE)" tvg-id="skysport4.de" tvg-logo="https://logo.m3uassets.com/skysport4.png",SKY SPORT 4 HD (EVENT ONLY) (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/164137
+#EXTINF:0 group-title="SPORT" CUID="430" tvg-name="SKY SPORT 5 HD (EVENT ONLY) (DE)" tvg-id="SkySport5.de" tvg-logo="https://logo.m3uassets.com/skysport5.png",SKY SPORT 5 HD (EVENT ONLY) (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/198215
+#EXTINF:0 group-title="SPORT" CUID="431" tvg-name="SKY SPORT 6 HD (EVENT ONLY) (DE)" tvg-id="skysport6.de" tvg-logo="https://logo.m3uassets.com/skysport6.png",SKY SPORT 6 HD (EVENT ONLY) (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/164139
+#EXTINF:0 group-title="SPORT" CUID="432" tvg-name="SKY SPORT 7 HD (EVENT ONLY) (DE)" tvg-id="skysport7.de" tvg-logo="https://logo.m3uassets.com/skysport7.png",SKY SPORT 7 HD (EVENT ONLY) (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/164140
+#EXTINF:0 group-title="SPORT" CUID="433" tvg-name="SKY SPORT NEWS HD (DE)" tvg-id="skysportnews.de" tvg-logo="https://logo.m3uassets.com/skysportnews.png",SKY SPORT NEWS HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/164133
+#EXTINF:0 group-title="SPORT" CUID="436" tvg-name="SKY SPORTS GOLF HD (UK)" tvg-id="skysportsgolf.uk" tvg-logo="https://logo.m3uassets.com/skysportsgolf.png",SKY SPORTS GOLF HD (UK)
+http://balkan-live.net/andyboydj/pLbouEnHp/164123
+#EXTINF:0 group-title="SPORT" CUID="456" tvg-name="SKY SPORT MOTO GP HD" tvg-logo="https://logo.m3uassets.com/skysportmotogp.png",SKY SPORT MOTO GP HD
+http://balkan-live.net/andyboydj/pLbouEnHp/216914
+#EXTINF:0 group-title="SPORT" CUID="468" tvg-name="SKY SPORTS MIX HD (UK)" tvg-id="skysportsmix.uk" tvg-logo="https://logo.m3uassets.com/skysportsmix.png",SKY SPORTS MIX HD (UK)
+http://balkan-live.net/andyboydj/pLbouEnHp/223281
+#EXTINF:0 group-title="SPORT" CUID="442" tvg-name="BUNDESLIGA 1 HD (DE)" tvg-id="SkySportBundesliga.de" tvg-logo="https://logo.m3uassets.com/bundesliga1.png",BUNDESLIGA 1 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149812
+#EXTINF:0 group-title="SPORT" CUID="443" tvg-name="BUNDESLIGA 2 HD (DE)" tvg-id="SkyBundesliga2.de" tvg-logo="https://logo.m3uassets.com/bundesliga2.png",BUNDESLIGA 2 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149814
+#EXTINF:0 group-title="SPORT" CUID="444" tvg-name="BUNDESLIGA 3 HD (DE)" tvg-id="SkyBundesliga3.de" tvg-logo="https://logo.m3uassets.com/bundesliga3.png",BUNDESLIGA 3 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149815
+#EXTINF:0 group-title="SPORT" CUID="445" tvg-name="BUNDESLIGA 4 HD (DE)" tvg-id="SkyBundesliga4.de" tvg-logo="https://logo.m3uassets.com/bundesliga4.png",BUNDESLIGA 4 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149816
+#EXTINF:0 group-title="SPORT" CUID="446" tvg-name="BUNDESLIGA 5 HD (DE)" tvg-id="SkyBundesliga5.de" tvg-logo="https://logo.m3uassets.com/bundesliga5.png",BUNDESLIGA 5 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149817
+#EXTINF:0 group-title="SPORT" CUID="17196" tvg-name="BUNDESLIGA 6 HD (DE)" tvg-id="skysportbundesliga6.de" tvg-logo="https://logo.m3uassets.com/bundesliga6.png",BUNDESLIGA 6 HD (DE)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/228461.ts
+#EXTINF:0 group-title="SPORT" CUID="17197" tvg-name="BUNDESLIGA 7 HD (DE)" tvg-id="skysportbundesliga7.de" tvg-logo="https://logo.m3uassets.com/bundesliga7.png",BUNDESLIGA 7 HD (DE)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/228462.ts
+#EXTINF:0 group-title="SPORT" CUID="17198" tvg-name="BUNDESLIGA 8 HD (DE)" tvg-id="skysportbundesliga8.de" tvg-logo="https://logo.m3uassets.com/bundesliga8.png",BUNDESLIGA 8 HD (DE)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/228463.ts
+#EXTINF:0 group-title="SPORT" CUID="17199" tvg-name="BUNDESLIGA 9 HD (DE)" tvg-id="skysportbundesliga9.de" tvg-logo="https://logo.m3uassets.com/bundesliga9.png",BUNDESLIGA 9 HD (DE)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/228464.ts
+#EXTINF:0 group-title="SPORT" CUID="17200" tvg-name="BUNDESLIGA 10 HD (DE)" tvg-id="skysportbundesliga10.de" tvg-logo="https://logo.m3uassets.com/bundesliga10.png",BUNDESLIGA 10 HD (DE)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/228465.ts
+#EXTINF:0 group-title="SPORT" CUID="363" tvg-name="ARENA SPORT  1x2 HD (SR)" tvg-id="ArenaSport1x2.rs" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport1x2.png",ARENA SPORT  1x2 HD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/174263
+#EXTINF:0 group-title="SPORT" CUID="14049" tvg-name="ARENA ADRENALIN (SR)" tvg-id="arenaadrenalin.rs" catchup-type="xc" catchup-days="3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a-adrenalin.png",ARENA ADRENALIN (SR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/225454.ts
+#EXTINF:0 group-title="SPORT" CUID="367" tvg-name="ARENA FIGHT FHD (SR)" tvg-id="arenafight.rs" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenafight.png",ARENA FIGHT FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/93520
+#EXTINF:0 group-title="SPORT" CUID="366" tvg-name="ARENA ESPORT" tvg-id="arenaesport.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenaesport.png",ARENA ESPORT
+http://balkan-live.net/andyboydj/pLbouEnHp/216813
+#EXTINF:0 group-title="SPORT" CUID="26279" tvg-name="SPORTSKA TV (HR)" tvg-id="sportskatv.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/sportskatv.png",SPORTSKA TV (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/234736.ts
+#EXTINF:0 group-title="SPORT" CUID="8257" tvg-name="FIGHT BOX HD" tvg-id="FightBox" tvg-logo="https://logo.m3uassets.com/fightbox.png",FIGHT BOX HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224780.ts
+#EXTINF:0 group-title="SPORT" CUID="403" tvg-name="HAJDUK TV (HR)" catchup-type="xc" catchup-days="3" tvg-logo="https://i.ibb.co/d48hSJM/unnamed.png",HAJDUK TV (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/200523
+#EXTINF:0 group-title="SPORT" CUID="369" tvg-name="MAX SPORT 1 HD (HR)" tvg-id="maxsport-1" catchup-type="xc" catchup-days="3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/MAXSport_1_HR_logo_v2.png",MAX SPORT 1 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/133892
+#EXTINF:0 group-title="SPORT" CUID="372" tvg-name="MAX SPORT 2 HD (HR)" tvg-id="maxsport-2" catchup-type="xc" catchup-days="3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/MAXSport_2_HR_logo_v2.png",MAX SPORT 2 HD (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/134215
+#EXTINF:0 group-title="SPORT" CUID="14050" tvg-name="ARENA TENIS (SR)" tvg-id="arenatenis.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a-tenis.png",ARENA TENIS (SR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/225455.ts
+#EXTINF:0 group-title="SPORT" CUID="34109" tvg-name="ARENA SPORT 1 FHD (HR) L2" tvg-id="arenasport1.hr" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235945.ts
+#EXTINF:0 group-title="SPORT" CUID="34111" tvg-name="ARENA SPORT 2 FHD (HR) L2" tvg-id="arenasport2.hr" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235946.ts
+#EXTINF:0 group-title="SPORT" CUID="34113" tvg-name="ARENA SPORT 3 FHD (HR) L2" tvg-id="arenasport3.hr" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235947.ts
+#EXTINF:0 group-title="SPORT" CUID="34115" tvg-name="ARENA SPORT 4 FHD (HR) L2" tvg-id="arenasport4.hr" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235948.ts
+#EXTINF:0 group-title="SPORT" CUID="34117" tvg-name="ARENA SPORT 5 FHD (HR) L2" tvg-id="arenasport5.hr" tvg-logo="https://logo.m3uassets.com/arenasport5.png",ARENA SPORT 5 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235954.ts
+#EXTINF:0 group-title="SPORT" CUID="34119" tvg-name="ARENA SPORT 6 FHD (HR) L2" tvg-id="arenasport6.hr" tvg-logo="https://logo.m3uassets.com/arenasport6.png",ARENA SPORT 6 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235955.ts
+#EXTINF:0 group-title="SPORT" CUID="34121" tvg-name="ARENA SPORT 7 FHD (HR) L2" tvg-id="arenasport7.hr" tvg-logo="https://logo.m3uassets.com/arenasport7.png",ARENA SPORT 7 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235956.ts
+#EXTINF:0 group-title="SPORT" CUID="34123" tvg-name="ARENA SPORT 8 FHD (HR) L2" tvg-id="arenasport8.hr" tvg-logo="https://logo.m3uassets.com/arenasport8.png",ARENA SPORT 8 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235957.ts
+#EXTINF:0 group-title="SPORT" CUID="325" tvg-name="ARENA PREMIUM 1 (BIH)" tvg-id="arenapremium1.ba" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arena1premium.png",ARENA PREMIUM 1 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/175870
+#EXTINF:0 group-title="SPORT" CUID="326" tvg-name="ARENA PREMIUM 1 (BIH) L2" tvg-id="arenapremium1.ba" tvg-logo="https://logo.m3uassets.com/arena1premium.png",ARENA PREMIUM 1 (BIH) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/202868
+#EXTINF:0 group-title="SPORT" CUID="34193" tvg-name="ARENA PREMIUM 1 HD (SLO)" tvg-id="ARENA SPORT PREMIUM (SLO)" tvg-logo="https://logo.m3uassets.com/arena1premium.png",ARENA PREMIUM 1 HD (SLO)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235980.ts
+#EXTINF:0 group-title="SPORT" CUID="34194" tvg-name="ARENA PREMIUM 1 FHD (SLO) L2" tvg-id="ARENA SPORT PREMIUM (SLO)" tvg-logo="https://logo.m3uassets.com/arena1premium.png",ARENA PREMIUM 1 FHD (SLO) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235981.ts
+#EXTINF:0 group-title="SPORT" CUID="332" tvg-name="ARENA PREMIUM 1 (SR) L2" tvg-id="arena-sport-1-premium" tvg-logo="https://logo.m3uassets.com/arena1premium.png",ARENA PREMIUM 1 (SR) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/160406
+#EXTINF:0 group-title="SPORT" CUID="327" tvg-name="ARENA PREMIUM 2 (BIH)" tvg-id="arenapremium2.ba" catchup-type="xc" catchup-days="3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png",ARENA PREMIUM 2 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/175871
+#EXTINF:0 group-title="SPORT" CUID="328" tvg-name="ARENA PREMIUM 2 (BIH) L2" tvg-id="arenapremium2.ba" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png",ARENA PREMIUM 2 (BIH) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/202869
+#EXTINF:0 group-title="SPORT" CUID="334" tvg-name="ARENA PREMIUM 2 (SR) L2" tvg-id="arena-sport-2-premium" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png",ARENA PREMIUM 2 (SR) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/160407
+#EXTINF:0 group-title="SPORT" CUID="329" tvg-name="ARENA PREMIUM 3 (BIH)" tvg-id="arenapremium3.ba" catchup-type="xc" catchup-days="3" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png",ARENA PREMIUM 3 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/175873
+#EXTINF:0 group-title="SPORT" CUID="330" tvg-name="ARENA PREMIUM 3 (BIH) L2" tvg-id="arenapremium3.ba" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png",ARENA PREMIUM 3 (BIH) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/202870
+#EXTINF:0 group-title="SPORT" CUID="336" tvg-name="ARENA PREMIUM 3 (SR) L2" tvg-id="arenapremium3.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png",ARENA PREMIUM 3 (SR) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/160408
+#EXTINF:0 group-title="SPORT" CUID="34089" tvg-name="ARENA PREMIUM 4 FHD (SR) L2" tvg-id="arenapremium4.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a4p.png",ARENA PREMIUM 4 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235949.ts
+#EXTINF:0 group-title="SPORT" CUID="34091" tvg-name="ARENA PREMIUM 5 FHD (SR)" tvg-id="arenapremium5.rs" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-aa5p.png",ARENA PREMIUM 5 FHD (SR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235950.ts
+#EXTINF:0 group-title="SPORT" CUID="353" tvg-name="ARENA SPORT 1 FHD (SR)" tvg-id="tv-arena-sport-1" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60774
+#EXTINF:0 group-title="SPORT" CUID="34127" tvg-name="ARENA SPORT 1 FHD (SR) L2" tvg-id="arenasport1.rs" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235964.ts
+#EXTINF:0 group-title="SPORT" CUID="354" tvg-name="ARENA SPORT 2 FHD (SR)" tvg-id="tv-arena-sport-2" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60776
+#EXTINF:0 group-title="SPORT" CUID="34129" tvg-name="ARENA SPORT 2 FHD (SR) L2" tvg-id="arenasport2.rs" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235965.ts
+#EXTINF:0 group-title="SPORT" CUID="355" tvg-name="ARENA SPORT 3 FHD (SR)" tvg-id="tv-arena-sport-3" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60778
+#EXTINF:0 group-title="SPORT" CUID="34131" tvg-name="ARENA SPORT 3 FHD (SR) L2" tvg-id="arenasport3.rs" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235966.ts
+#EXTINF:0 group-title="SPORT" CUID="356" tvg-name="ARENA SPORT 4 FHD (SR)" tvg-id="tv-arena-sport-4" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/60780
+#EXTINF:0 group-title="SPORT" CUID="34133" tvg-name="ARENA SPORT 4 FHD (SR) L2" tvg-id="arenasport4.rs" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235967.ts
+#EXTINF:0 group-title="SPORT" CUID="357" tvg-name="ARENA SPORT 5 FHD (SR)" tvg-id="arena-sport-5" tvg-logo="https://logo.m3uassets.com/arenasport5.png",ARENA SPORT 5 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/133894
+#EXTINF:0 group-title="SPORT" CUID="34135" tvg-name="ARENA SPORT 5 FHD (SR) L2" tvg-id="arenasport5.rs" tvg-logo="https://logo.m3uassets.com/arenasport5.png",ARENA SPORT 5 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235968.ts
+#EXTINF:0 group-title="SPORT" CUID="358" tvg-name="ARENA SPORT 6 FHD (SR)" tvg-id="arena-sport-6" tvg-logo="https://logo.m3uassets.com/arenasport6.png",ARENA SPORT 6 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/205662
+#EXTINF:0 group-title="SPORT" CUID="34137" tvg-name="ARENA SPORT 6 FHD (SR) L2" tvg-id="arenasport6.rs" tvg-logo="https://logo.m3uassets.com/arenasport6.png",ARENA SPORT 6 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235969.ts
+#EXTINF:0 group-title="SPORT" CUID="359" tvg-name="ARENA SPORT 7 FHD (SR)" tvg-id="arena-sport-7" tvg-logo="https://logo.m3uassets.com/arenasport7.png",ARENA SPORT 7 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/122509
+#EXTINF:0 group-title="SPORT" CUID="34139" tvg-name="ARENA SPORT 7 FHD (SR) L2" tvg-id="arenasport7.rs" tvg-logo="https://logo.m3uassets.com/arenasport7.png",ARENA SPORT 7 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235970.ts
+#EXTINF:0 group-title="SPORT" CUID="360" tvg-name="ARENA SPORT 8 FHD (SR)" tvg-id="arena-sport-8" tvg-logo="https://logo.m3uassets.com/arenasport8.png",ARENA SPORT 8 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/122510
+#EXTINF:0 group-title="SPORT" CUID="34141" tvg-name="ARENA SPORT 8 FHD (SR) L2" tvg-id="arenasport8.rs" tvg-logo="https://logo.m3uassets.com/arenasport8.png",ARENA SPORT 8 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235971.ts
+#EXTINF:0 group-title="SPORT" CUID="361" tvg-name="ARENA SPORT 9 FHD (SR)" tvg-id="arenasport9.rs" tvg-logo="https://logo.m3uassets.com/arenasport9.png",ARENA SPORT 9 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/205663
+#EXTINF:0 group-title="SPORT" CUID="34143" tvg-name="ARENA SPORT 9 FHD (SR) L2" tvg-id="arenasport9.rs" tvg-logo="https://logo.m3uassets.com/arenasport9.png",ARENA SPORT 9 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235972.ts
+#EXTINF:0 group-title="SPORT" CUID="362" tvg-name="ARENA SPORT 10 FHD (SR)" tvg-id="arenasport10.rs" tvg-logo="https://logo.m3uassets.com/arenasport10.png",ARENA SPORT 10 FHD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/205664
+#EXTINF:0 group-title="SPORT" CUID="34145" tvg-name="ARENA SPORT 10 FHD (SR) L2" tvg-id="arenasport10.rs" tvg-logo="https://logo.m3uassets.com/arenasport10.png",ARENA SPORT 10 FHD (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235973.ts
+#EXTINF:0 group-title="SPORT" CUID="337" tvg-name="ARENA SPORT 1 FHD (BIH)" tvg-id="arena-sport-1-ba" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 FHD (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/60772
+#EXTINF:0 group-title="SPORT" CUID="34097" tvg-name="ARENA SPORT 1 FHD (BIH) L2" tvg-id="arenasport1.bh" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 FHD (BIH) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235958.ts
+#EXTINF:0 group-title="SPORT" CUID="338" tvg-name="ARENA SPORT 2 (BIH)" tvg-id="arena-sport-2-bih" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/194235
+#EXTINF:0 group-title="SPORT" CUID="34099" tvg-name="ARENA SPORT 2 FHD (BIH) L2" tvg-id="arenasport2.ba" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 FHD (BIH) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235959.ts
+#EXTINF:0 group-title="SPORT" CUID="339" tvg-name="ARENA SPORT 3 (BIH)" tvg-id="arena-sport-3-bih" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/194236
+#EXTINF:0 group-title="SPORT" CUID="34101" tvg-name="ARENA SPORT 3 FHD (BIH) L2" tvg-id="arenasport3.ba" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 FHD (BIH) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235960.ts
+#EXTINF:0 group-title="SPORT" CUID="340" tvg-name="ARENA SPORT 4 (BIH)" tvg-id="arena-sport-4-bih" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/194237
+#EXTINF:0 group-title="SPORT" CUID="34103" tvg-name="ARENA SPORT 4 FHD (BIH) L2" tvg-id="arenasport4.bh" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 FHD (BIH) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235961.ts
+#EXTINF:0 group-title="SPORT" CUID="341" tvg-name="ARENA SPORT 5 (BIH)" tvg-id="arena-sport-5-bih" tvg-logo="https://logo.m3uassets.com/arenasport5.png",ARENA SPORT 5 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/194238
+#EXTINF:0 group-title="SPORT" CUID="34105" tvg-name="ARENA SPORT 5 FHD (BIH) L2" tvg-id="arenasport5.bh" tvg-logo="https://logo.m3uassets.com/arenasport5.png",ARENA SPORT 5 FHD (BIH) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235962.ts
+#EXTINF:0 group-title="SPORT" CUID="342" tvg-name="ARENA SPORT 6 (BIH)" tvg-id="Arena Sport 6.ba" tvg-logo="https://logo.m3uassets.com/arenasport6.png",ARENA SPORT 6 (BIH)
+http://balkan-live.net/andyboydj/pLbouEnHp/122508
+#EXTINF:0 group-title="SPORT" CUID="34107" tvg-name="ARENA SPORT 6 FHD (BIH) L2" tvg-id="arenasport6.bh" tvg-logo="https://logo.m3uassets.com/arenasport6.png",ARENA SPORT 6 FHD (BIH) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235963.ts
+#EXTINF:0 group-title="SPORT" CUID="364" tvg-name="ARENA SPORT 1 FHD (SLO)" tvg-id="ArenaSport1.svn" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 FHD (SLO)
+http://balkan-live.net/andyboydj/pLbouEnHp/161155
+#EXTINF:0 group-title="SPORT" CUID="34196" tvg-name="ARENA SPORT 1 FHD (SLO) L2" tvg-id="ARENA SPORT 1 HD (SLO)" tvg-logo="https://logo.m3uassets.com/arenasport1.png",ARENA SPORT 1 FHD (SLO) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235974.ts
+#EXTINF:0 group-title="SPORT" CUID="365" tvg-name="ARENA SPORT 2 FHD (SLO)" tvg-id="ArenaSport2.svn" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 FHD (SLO)
+http://balkan-live.net/andyboydj/pLbouEnHp/161156
+#EXTINF:0 group-title="SPORT" CUID="34198" tvg-name="ARENA SPORT 2 FHD (SLO) L2" tvg-id="ARENA SPORT 2 HD (SLO)" tvg-logo="https://logo.m3uassets.com/arenasport2.png",ARENA SPORT 2 FHD (SLO) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235975.ts
+#EXTINF:0 group-title="SPORT" CUID="34199" tvg-name="ARENA SPORT 3 HD (SLO)" tvg-id="ARENA SPORT 3" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 HD (SLO)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235976.ts
+#EXTINF:0 group-title="SPORT" CUID="34200" tvg-name="ARENA SPORT 3 FHD (SLO) L2" tvg-id="ARENA SPORT 3" tvg-logo="https://logo.m3uassets.com/arenasport3.png",ARENA SPORT 3 FHD (SLO) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235979.ts
+#EXTINF:0 group-title="SPORT" CUID="34201" tvg-name="ARENA SPORT 4 HD (SLO)" tvg-id="Arena Sport 4.si" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 HD (SLO)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235978.ts
+#EXTINF:0 group-title="SPORT" CUID="34202" tvg-name="ARENA SPORT 4 FHD (SLO) L2" tvg-id="ARENA SPORT 4" tvg-logo="https://logo.m3uassets.com/arenasport4.png",ARENA SPORT 4 FHD (SLO) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/235977.ts
+#EXTINF:0 group-title="SPORT" CUID="378" tvg-name="SPORT KLUB 1 HD (HR) L2" tvg-id="sportklub-hr" tvg-logo="https://logo.m3uassets.com/sportklub1.png",SPORT KLUB 1 HD (HR) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/192668
+#EXTINF:0 group-title="SPORT" CUID="34157" tvg-name="SPORT KLUB 2 FHD (HR) L2" tvg-id="sportklub2.hr" tvg-logo="https://logo.m3uassets.com/sportklub2.png",SPORT KLUB 2 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236629.ts
+#EXTINF:0 group-title="SPORT" CUID="34159" tvg-name="SPORT KLUB 3 FHD (HR) L2" tvg-id="sportklub3.hr" tvg-logo="https://logo.m3uassets.com/sportklub3.png",SPORT KLUB 3 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236632.ts
+#EXTINF:0 group-title="SPORT" CUID="34161" tvg-name="SPORT KLUB 4 FHD (HR) L2" tvg-id="sk4hr.hr" tvg-logo="https://logo.m3uassets.com/sportklub4.png",SPORT KLUB 4 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236633.ts
+#EXTINF:0 group-title="SPORT" CUID="34163" tvg-name="SPORT KLUB 5 FHD (HR) L2" tvg-id="sk5hr.hr" tvg-logo="https://logo.m3uassets.com/sportklub5.png",SPORT KLUB 5 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236634.ts
+#EXTINF:0 group-title="SPORT" CUID="34165" tvg-name="SPORT KLUB 6 FHD (HR) L2" tvg-id="sk6hr.hr" tvg-logo="https://logo.m3uassets.com/sportklub6.png",SPORT KLUB 6 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236636.ts
+#EXTINF:0 group-title="SPORT" CUID="34167" tvg-name="SPORT KLUB 7 FHD (HR) L2" tvg-id="sk7hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub7.png",SPORT KLUB 7 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236637.ts
+#EXTINF:0 group-title="SPORT" CUID="34169" tvg-name="SPORT KLUB 8 FHD (HR) L2" tvg-id="sk8hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub8.png",SPORT KLUB 8 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236638.ts
+#EXTINF:0 group-title="SPORT" CUID="34171" tvg-name="SPORT KLUB 9 FHD (HR) L2" tvg-id="sk9hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub9.png",SPORT KLUB 9 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236640.ts
+#EXTINF:0 group-title="SPORT" CUID="34172" tvg-name="SPORT KLUB 10 FHD (HR) L2" tvg-id="sk10hrhr.hr" tvg-logo="https://logo.m3uassets.com/sportklub10.png",SPORT KLUB 10 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236641.ts
+#EXTINF:0 group-title="SPORT" CUID="34175" tvg-name="SPORT KLUB 11 FHD (HR) L2" tvg-id="sk11hrhr.hr" tvg-logo="https://www.a1.hr/documents/d/a1/sk_11",SPORT KLUB 11 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236644.ts
+#EXTINF:0 group-title="SPORT" CUID="34177" tvg-name="SPORT KLUB 12 FHD (HR) L2" tvg-id="sk12hrhr.hr" tvg-logo="https://www.a1.hr/documents/d/a1/sk_12",SPORT KLUB 12 FHD (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236646.ts
+#EXTINF:0 group-title="SPORT" CUID="394" tvg-name="SK FIGHT HD (SR)" tvg-id="skfight.ba" catchup-type="xc" catchup-days="3" tvg-logo="https://tvprofil.com/img/kanali-logo/SK_Fight_HR_logo_v2.png?1737033353",SK FIGHT HD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/179019
+#EXTINF:0 group-title="SPORT" CUID="398" tvg-name="SPORT KLUB GOLF HD (SR)" tvg-id="skgolf.ba" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/sportklubgolf.png",SPORT KLUB GOLF HD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/174264
+#EXTINF:0 group-title="SPORT" CUID="395" tvg-name="SPORT KLUB 1 (SLO)" tvg-id="sportklub1.si" tvg-logo="https://logo.m3uassets.com/sportklub1.png",SPORT KLUB 1 (SLO)
+http://balkan-live.net/andyboydj/pLbouEnHp/194413
+#EXTINF:0 group-title="SPORT" CUID="396" tvg-name="SPORT KLUB 2 (SLO)" tvg-id="sportklub2.si" tvg-logo="https://logo.m3uassets.com/sportklub2.png",SPORT KLUB 2 (SLO)
+http://balkan-live.net/andyboydj/pLbouEnHp/194414
+#EXTINF:0 group-title="SPORT" CUID="397" tvg-name="SPORT KLUB 3 (SLO)" tvg-id="sportklub3.si" tvg-logo="https://logo.m3uassets.com/sportklub3.png",SPORT KLUB 3 (SLO)
+http://balkan-live.net/andyboydj/pLbouEnHp/194415
+#EXTINF:0 group-title="SPORT" CUID="34206" tvg-name="SPORT KLUB 5 FHD (SLO)" tvg-id="sportklub5.si" tvg-logo="https://logo.m3uassets.com/sportklub5.png",SPORT KLUB 5 FHD (SLO)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236630.ts
+#EXTINF:0 group-title="SPORT" CUID="34207" tvg-name="SPORT KLUB 6 FHD (SLO)" tvg-id="sportklub6.si" tvg-logo="https://logo.m3uassets.com/sportklub6.png",SPORT KLUB 6 FHD (SLO)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/236631.ts
+#EXTINF:0 group-title="SPORT" CUID="370" tvg-name="MAX SPORT 1 HD (HR) L2" tvg-id="maxsport-1" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/MAXSport_1_HR_logo_v2.png",MAX SPORT 1 HD (HR) L2
+http://balkan-live.net/andyboydj/pLbouEnHp/215428
+#EXTINF:0 group-title="SPORT" CUID="14464" tvg-name="HAJDUK TV (HR) L2" tvg-logo="https://i.ibb.co/d48hSJM/unnamed.png",HAJDUK TV (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/225458.ts
+#EXTINF:0 group-title="SPORT" CUID="46615" tvg-name="EUROSPORT 1 (SR) L2" tvg-id="eurosport1.rs" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Eurosport-logo.png",EUROSPORT 1 (SR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/240753.ts
+#EXTINF:0 group-title="SPORT" CUID="46613" tvg-name="SOS KANAL PLUS (SR)" tvg-id="soskanalplus.rs" tvg-logo="https://nstatic.net/img/tv/channels/m/sos.png",SOS KANAL PLUS (SR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/246436.ts
+#EXTINF:0 group-title="SPORT" CUID="46614" tvg-name="ZONASPORT (HR)" tvg-logo="https://logo.m3uassets.com/onsport.png",ZONASPORT (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/244618.ts
+#EXTINF:0 group-title="SPORT" CUID="46821" tvg-name="Red Bull TV HD" tvg-id="redbulltv.uk" tvg-logo="https://logo.m3uassets.com/redbulltv.png",Red Bull TV HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/245614.ts
+#EXTINF:0 group-title="SPORT" CUID="60668" tvg-name="ARENA M1 PREMIUM HD (MK)" tvg-id="arenam1premium.mk" tvg-logo="https://logo.m3uassets.com/arena1premium.png",ARENA M1 PREMIUM HD (MK)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/249878.ts
+#EXTINF:0 group-title="SPORT" CUID="60669" tvg-name="ARENA M2 PREMIUM HD (MK)" tvg-id="arenam2premium.mk" tvg-logo="https://logo.m3uassets.com/arena2premium.png",ARENA M2 PREMIUM HD (MK)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/249879.ts
+#EXTINF:0 group-title="SPORT" CUID="60670" tvg-name="ARENA M3 PREMIUM HD (MK)" tvg-id="arenam3premium.mk" tvg-logo="https://logo.m3uassets.com/arena3premium.png",ARENA M3 PREMIUM HD (MK)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/249880.ts
+#EXTINF:0 group-title="SPORT" CUID="405" tvg-name="MNE SPORT 1 (CG)" tvg-id="mnesport1.me" tvg-logo="https://logo.m3uassets.com/mnesport1.png",MNE SPORT 1 (CG)
+http://balkan-live.net/andyboydj/pLbouEnHp/217056
+#EXTINF:0 group-title="SPORT" CUID="81724" tvg-name="MNESPORT 1 HD" tvg-id="mnesport1.me" tvg-logo="https://logo.m3uassets.com/mnesport1.png",MNESPORT 1 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261755.ts
+#EXTINF:0 group-title="SPORT" CUID="81723" tvg-name="MNESPORT 2 HD" tvg-id="mnesport2.me" tvg-logo="https://logo.m3uassets.com/mnesport2.png",MNESPORT 2 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261754.ts
+#EXTINF:0 group-title="SPORT" CUID="81722" tvg-name="MNESPORT 3 HD" tvg-id="mnesport3.me" tvg-logo="https://logo.m3uassets.com/mnesport3.png",MNESPORT 3 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261753.ts
+#EXTINF:0 group-title="SPORT" CUID="406" tvg-name="MNE SPORT 2 (CG)" tvg-id="mnesport2.me" tvg-logo="https://logo.m3uassets.com/mnesport2.png",MNE SPORT 2 (CG)
+http://balkan-live.net/andyboydj/pLbouEnHp/217057
+#EXTINF:0 group-title="SPORT" CUID="407" tvg-name="MNE SPORT 3 (CG)" tvg-id="mnesport3.me" tvg-logo="https://logo.m3uassets.com/mnesport3.png",MNE SPORT 3 (CG)
+http://balkan-live.net/andyboydj/pLbouEnHp/217058
+#EXTINF:0 group-title="SPORT" CUID="408" tvg-name="ZVEZDA TV (SR)" tvg-id="zvezdatvrs.rs" tvg-logo="https://logo.m3uassets.com/zvezdatv.png",ZVEZDA TV (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/164151
+#EXTINF:0 group-title="SPORT" CUID="409" tvg-name="Sport TV 1 HD SI" tvg-id="SportTV1.svn" tvg-logo="https://logo.m3uassets.com/sporttv1.png",Sport TV 1 HD SI
+http://balkan-live.net/andyboydj/pLbouEnHp/194555
+#EXTINF:0 group-title="SPORT" CUID="410" tvg-name="Sport TV 2 HD SI" tvg-id="SportTV2.svn" tvg-logo="https://logo.m3uassets.com/sporttv2.png",Sport TV 2 HD SI
+http://balkan-live.net/andyboydj/pLbouEnHp/194556
+#EXTINF:0 group-title="SPORT" CUID="411" tvg-name="Sport TV 3 HD SI" tvg-id="SportTV3.svn" tvg-logo="https://logo.m3uassets.com/sporttv3.png",Sport TV 3 HD SI
+http://balkan-live.net/andyboydj/pLbouEnHp/194557
+#EXTINF:0 group-title="SPORT" CUID="412" tvg-name="SPORTDIGITAL (DE)" tvg-id="sportdigital1plus.de" tvg-logo="https://logo.m3uassets.com/sportdigital.png",SPORTDIGITAL (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/194563
+#EXTINF:0 group-title="SPORT" CUID="417" tvg-name="BARCA TV (ES)" tvg-id="barcatv.es" tvg-logo="https://logo.m3uassets.com/barcatv.png",BARCA TV (ES)
+http://balkan-live.net/andyboydj/pLbouEnHp/192975
+#EXTINF:0 group-title="SPORT" CUID="419" tvg-name="EXTREME SPORTS (HR)" tvg-id="extremesports.hr" tvg-logo="https://logo.m3uassets.com/extremesports.png",EXTREME SPORTS (HR)
+http://balkan-live.net/andyboydj/pLbouEnHp/179063
+#EXTINF:0 group-title="SPORT" CUID="420" tvg-name="C MORE LIVE HD (SW)" tvg-logo="https://logo.m3uassets.com/cmorelive.png",C MORE LIVE HD (SW)
+http://balkan-live.net/andyboydj/pLbouEnHp/177964
+#EXTINF:0 group-title="SPORT" CUID="423" tvg-name="ZIGGO SPORT GOLF HD (NL)" tvg-id="ziggosport.nl" tvg-logo="https://logo.m3uassets.com/ziggosportgolf.png",ZIGGO SPORT GOLF HD (NL)
+http://balkan-live.net/andyboydj/pLbouEnHp/174271
+#EXTINF:0 group-title="SPORT" CUID="424" tvg-name="ZIGGO SPORT RACING HD (NL)" tvg-id="ziggosportextra.nl" tvg-logo="https://logo.m3uassets.com/ziggosportracing.png",ZIGGO SPORT RACING HD (NL)
+http://balkan-live.net/andyboydj/pLbouEnHp/174270
+#EXTINF:0 group-title="SPORT" CUID="437" tvg-name="MOTORVISION HD (DE)" tvg-id="motorvisionplus.de" tvg-logo="https://logo.m3uassets.com/motorvision.png",MOTORVISION HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/157302
+#EXTINF:0 group-title="SPORT" CUID="438" tvg-name="DAZN SPORT 1 HD (DE)" tvg-id="DAZN1HD" tvg-logo="https://logo.m3uassets.com/daznsport1.png",DAZN SPORT 1 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149828
+#EXTINF:0 group-title="SPORT" CUID="439" tvg-name="DAZN SPORT 2 HD (DE)" tvg-id="DAZN2HD" tvg-logo="https://logo.m3uassets.com/daznsport2.png",DAZN SPORT 2 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149829
+#EXTINF:0 group-title="SPORT" CUID="440" tvg-name="DAZN BAR 1 HD (DE)" tvg-id="DAZN1.de" tvg-logo="https://logo.m3uassets.com/daznbar1.png",DAZN BAR 1 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149826
+#EXTINF:0 group-title="SPORT" CUID="441" tvg-name="DAZN BAR 2 HD (DE)" tvg-id="DAZN2.de" tvg-logo="https://logo.m3uassets.com/daznbar2.png",DAZN BAR 2 HD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/149827
+#EXTINF:0 group-title="SPORT" CUID="447" tvg-name="EUROSPORT 1 FHD (DE)" tvg-id="Eurosport1.de" tvg-logo="https://logo.m3uassets.com/eurosport1.png",EUROSPORT 1 FHD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/60791
+#EXTINF:0 group-title="SPORT" CUID="448" tvg-name="EUROSPORT 2 FHD (DE)" tvg-id="Eurosport2.de" tvg-logo="https://logo.m3uassets.com/eurosport2.png",EUROSPORT 2 FHD (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/60794
+#EXTINF:0 group-title="SPORT" CUID="449" tvg-name="SPORT 1 (DE)" tvg-id="sport1.de" tvg-logo="https://logo.m3uassets.com/sport1.png",SPORT 1 (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/223290
+#EXTINF:0 group-title="SPORT" CUID="450" tvg-name="SPORT 1+ (DE)" tvg-id="sport1.de" tvg-logo="https://logo.m3uassets.com/sport1.png",SPORT 1+ (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/223291
+#EXTINF:0 group-title="SPORT" CUID="451" tvg-name="SPORTDIGITAL FUSSBALL (DE)" tvg-id="sportdigitalfussball.de" tvg-logo="https://logo.m3uassets.com/sportdigitalfussball.png",SPORTDIGITAL FUSSBALL (DE)
+http://balkan-live.net/andyboydj/pLbouEnHp/223292
+#EXTINF:0 group-title="SPORT" CUID="452" tvg-name="UFC (USA)" tvg-logo="https://logo.m3uassets.com/ufc.png",UFC (USA)
+http://balkan-live.net/andyboydj/pLbouEnHp/216913
+#EXTINF:0 group-title="SPORT" CUID="453" tvg-name="UFC FIGHT PASS (UK)" tvg-logo="https://logo.m3uassets.com/ufcfightpass.png",UFC FIGHT PASS (UK)
+http://balkan-live.net/andyboydj/pLbouEnHp/223300
+#EXTINF:0 group-title="SPORT" CUID="454" tvg-name="UFC FIGHT PASS (USA)" tvg-logo="https://logo.m3uassets.com/ufcfightpass.png",UFC FIGHT PASS (USA)
+http://balkan-live.net/andyboydj/pLbouEnHp/223301
+#EXTINF:0 group-title="SPORT" CUID="455" tvg-name="NBA (USA)" tvg-id="NBATV" tvg-logo="https://logo.m3uassets.com/nba.png",NBA (USA)
+http://balkan-live.net/andyboydj/pLbouEnHp/84871
+#EXTINF:0 group-title="SPORT" CUID="457" tvg-name="F1 TV" tvg-logo="https://logo.m3uassets.com/f1tv.png",F1 TV
+http://balkan-live.net/andyboydj/pLbouEnHp/222715
+#EXTINF:0 group-title="SPORT" CUID="458" tvg-name="VIASAT MOTOR HD (SE)" tvg-logo="https://logo.m3uassets.com/viasatmotor.png",VIASAT MOTOR HD (SE)
+http://balkan-live.net/andyboydj/pLbouEnHp/203570
+#EXTINF:0 group-title="SPORT" CUID="471" tvg-name="FOOT+ 24/24 HD (FR)" tvg-logo="https://logo.m3uassets.com/foot2424.png",FOOT+ 24/24 HD (FR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223295
+#EXTINF:0 group-title="SPORT" CUID="475" tvg-name="AUTOMOTO TV HD (FR)" tvg-logo="https://logo.m3uassets.com/automototv.png",AUTOMOTO TV HD (FR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223299
+#EXTINF:0 group-title="SPORT" CUID="476" tvg-name="EXXEN SPORT 1 HD (TR)" tvg-id="exxensport1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",EXXEN SPORT 1 HD (TR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223282
+#EXTINF:0 group-title="SPORT" CUID="477" tvg-name="EXXEN SPORT 2 HD (TR)" tvg-id="exxensport1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",EXXEN SPORT 2 HD (TR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223283
+#EXTINF:0 group-title="SPORT" CUID="478" tvg-name="EXXEN SPORT 3 HD (TR)" tvg-id="exxensport1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",EXXEN SPORT 3 HD (TR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223284
+#EXTINF:0 group-title="SPORT" CUID="479" tvg-name="EXXEN SPORT 4 HD (TR)" tvg-id="exxensport1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",EXXEN SPORT 4 HD (TR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223285
+#EXTINF:0 group-title="SPORT" CUID="481" tvg-name="TIVIBU SPOR 1 HD (TR)" tvg-id="trtivibuspor1.tr" tvg-logo="https://logo.m3uassets.com/tivibuspor1.png",TIVIBU SPOR 1 HD (TR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223287
+#EXTINF:0 group-title="SPORT" CUID="482" tvg-name="TIVIBU SPOR 2 HD (TR)" tvg-id="tivibuspor2.tr" tvg-logo="https://logo.m3uassets.com/tivibuspor2.png",TIVIBU SPOR 2 HD (TR)
+http://balkan-live.net/andyboydj/pLbouEnHp/223288
+#EXTINF:0 group-title="SPORT" CUID="2513" tvg-name="MYSPORTS 3 HD (CH)" tvg-id="mysports3d.ch" tvg-logo="https://logo.m3uassets.com/mysports3.png",MYSPORTS 3 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223698.ts
+#EXTINF:0 group-title="SPORT" CUID="2514" tvg-name="MYSPORTS 4 HD (CH)" tvg-id="mysports4d.ch" tvg-logo="https://logo.m3uassets.com/mysports4.png",MYSPORTS 4 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223699.ts
+#EXTINF:0 group-title="SPORT" CUID="2515" tvg-name="MYSPORTS 5 HD (CH)" tvg-id="mysports5d.ch" tvg-logo="https://logo.m3uassets.com/mysports5.png",MYSPORTS 5 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223700.ts
+#EXTINF:0 group-title="SPORT" CUID="2516" tvg-name="MYSPORTS 6 HD (CH)" tvg-id="mysports6d.ch" tvg-logo="https://logo.m3uassets.com/mysports6.png",MYSPORTS 6 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223701.ts
+#EXTINF:0 group-title="SPORT" CUID="2518" tvg-name="MYSPORTS 8 HD (CH)" tvg-id="mysports8d.ch" tvg-logo="https://logo.m3uassets.com/mysports8.png",MYSPORTS 8 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223703.ts
+#EXTINF:0 group-title="SPORT" CUID="2519" tvg-name="EUROSPORT 2 HD (CH)" tvg-id="eurosport2d.ch" tvg-logo="https://logo.m3uassets.com/eurosport2.png",EUROSPORT 2 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223695.ts
+#EXTINF:0 group-title="SPORT" CUID="18324" tvg-name="BLUE SPORT 1 LIVE UHD (CH)" tvg-id="bluesport1live.ch" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f6/2020/12/blue-sport-logo_mobile_1-1.png",BLUE SPORT 1 LIVE UHD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229545.ts
+#EXTINF:0 group-title="SPORT" CUID="2520" tvg-name="BLUE SPORT 1 HD (CH)" tvg-id="bluesport1.ch" tvg-logo="https://logo.m3uassets.com/bluesport1.png",BLUE SPORT 1 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223691.ts
+#EXTINF:0 group-title="SPORT" CUID="2521" tvg-name="BLUE SPORT 2 HD (CH)" tvg-id="bluesport2.ch" tvg-logo="https://logo.m3uassets.com/bluesport2.png",BLUE SPORT 2 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223692.ts
+#EXTINF:0 group-title="SPORT" CUID="2522" tvg-name="EUROSPORT 1 HD (CH)" tvg-id="eurosport1d.ch" tvg-logo="https://logo.m3uassets.com/eurosport1.png",EUROSPORT 1 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223706.ts
+#EXTINF:0 group-title="SPORT" CUID="2523" tvg-name="V SPORT LIVE 1 HD (CH)" tvg-logo="https://logo.m3uassets.com/vsportlive1.png",V SPORT LIVE 1 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/223705.ts
+#EXTINF:0 group-title="SPORT" CUID="3332" tvg-name="VIAPLAY F1 (NL)" tvg-logo="https://logo.m3uassets.com/viaplay.png",VIAPLAY F1 (NL)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224046.ts
+#EXTINF:0 group-title="SPORT" CUID="18797" tvg-name="VIAPLAY MEDOTV RACE (NL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",VIAPLAY MEDOTV RACE (NL)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229714.ts
+#EXTINF:0 group-title="SPORT" CUID="19381" tvg-name="BLUE SPORT 1 (CH)" tvg-id="bluesport1.ch" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f6/2020/12/blue-sport-logo_mobile_1-1.png",BLUE SPORT 1 (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229790.ts
+#EXTINF:0 group-title="SPORT" CUID="19382" tvg-name="BLUE SPORT 2 (CH)" tvg-id="bluesport2.ch" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f6/2020/12/blue-sport-logo_mobile_1-1.png",BLUE SPORT 2 (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229791.ts
+#EXTINF:0 group-title="SPORT" CUID="19383" tvg-name="BLUE ZOOM D (CH)" tvg-id="bluezoomd.ch" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f6/2020/12/blue-sport-logo_mobile_1-1.png",BLUE ZOOM D (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229792.ts
+#EXTINF:0 group-title="SPORT" CUID="19384" tvg-name="SUPER SPORT 1 (ALB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",SUPER SPORT 1 (ALB)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229793.ts
+#EXTINF:0 group-title="SPORT" CUID="19385" tvg-name="SUPER SPORT KOSOVA 2 (ALB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",SUPER SPORT KOSOVA 2 (ALB)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229794.ts
+#EXTINF:0 group-title="SPORT" CUID="19386" tvg-name="SUPER SPORT 3 (ALB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",SUPER SPORT 3 (ALB)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229795.ts
+#EXTINF:0 group-title="SPORT" CUID="19883" tvg-name="ALTITUDE SPORT (TV PASS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo-Altitude-Sports.png",ALTITUDE SPORT (TV PASS)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/229877.ts
+#EXTINF:0 group-title="SPORT" CUID="24228" tvg-name="C MORE LIVE (SW)" tvg-logo="https://i.postimg.cc/D0rxdXZS/C-More-Live.png",C MORE LIVE (SW)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231181.ts
+#EXTINF:0 group-title="SPORT" CUID="24229" tvg-name="C MORE HOCKEY (SW)" tvg-logo="https://i.postimg.cc/T2gNXZ9T/C-More-Hockey.png",C MORE HOCKEY (SW)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231180.ts
+#EXTINF:0 group-title="SPORT" CUID="24230" tvg-name="C MORE FOTBOLL (SW)" tvg-logo="https://i.postimg.cc/Fz5PLZ9t/C-More-Fotboll.png",C MORE FOTBOLL (SW)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231179.ts
+#EXTINF:0 group-title="SPORT" CUID="24231" tvg-name="VIASAT SPORT PREMIUM (SW)" tvg-logo="https://i.postimg.cc/fyfMjHjb/TV-viasat-sport.png",VIASAT SPORT PREMIUM (SW)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231178.ts
+#EXTINF:0 group-title="SPORT" CUID="24232" tvg-name="VIASAT SPORT 1 (SW)" tvg-logo="https://i.postimg.cc/fyfMjHjb/TV-viasat-sport.png",VIASAT SPORT 1 (SW)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231177.ts
+#EXTINF:0 group-title="SPORT" CUID="24233" tvg-name="VIASAT SPORT EXTRA (SW)" tvg-id="29032214963" tvg-logo="https://i.postimg.cc/fyfMjHjb/TV-viasat-sport.png",VIASAT SPORT EXTRA (SW)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/231176.ts
+#EXTINF:0 group-title="SPORT" CUID="46822" tvg-name="TENNIS CHANNEL (UK)" tvg-id="tennischannel.uk" tvg-logo="https://logo.m3uassets.com/tennischannel.png",TENNIS CHANNEL (UK)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/239347.ts
+#EXTINF:0 group-title="SPORT" CUID="61653" tvg-name="FUSSBALL.TV 1",FUSSBALL.TV 1
+http://balkan-live.net/live/andyboydj/pLbouEnHp/259973.ts
+#EXTINF:0 group-title="SPORT" CUID="61654" tvg-name="FUSSBALL.TV 2",FUSSBALL.TV 2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/259974.ts
+#EXTINF:0 group-title="SPORT" CUID="61655" tvg-name="FUSSBALL.TV 3",FUSSBALL.TV 3
+http://balkan-live.net/live/andyboydj/pLbouEnHp/259975.ts
+#EXTINF:0 group-title="SPORT" CUID="95894" tvg-name="FAST&FUN BOX HD (HR)",FAST&FUN BOX HD (HR)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/268735.ts
+#EXTINF:0 group-title="SPORT" CUID="5094489" tvg-name="ARENA SPORT S01 E02 HD (SR)" tvg-logo="http://88.198.2.157/slike/sport/5578f8974caac3d23303.png",ARENA SPORT S01 E02 HD (SR)
+http://balkan-live.net/andyboydj/pLbouEnHp/ts
+#EXTINF:0 group-title="SPORT" CUID="5093" tvg-name="NBA HD (USA)" tvg-logo="https://logo.m3uassets.com/nba.png",NBA HD (USA)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224473.ts
+#EXTINF:0 group-title="SPORT" CUID="5153" tvg-name="ESPN (USA)" tvg-logo="https://logo.m3uassets.com/espn.png",ESPN (USA)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224533.ts
+#EXTINF:0 group-title="SPORT" CUID="5154" tvg-name="ESPN 2 HD (USA)" tvg-logo="https://logo.m3uassets.com/espn2.png",ESPN 2 HD (USA)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224534.ts
+#EXTINF:0 group-title="SPORT" CUID="5155" tvg-name="ESPN DEPORTES HD (USA)" tvg-logo="https://logo.m3uassets.com/espndeportes.png",ESPN DEPORTES HD (USA)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224535.ts
+#EXTINF:0 group-title="SPORT" CUID="5157" tvg-name="ESPN NEWS HD (USA)" tvg-logo="https://logo.m3uassets.com/espnnews.png",ESPN NEWS HD (USA)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224537.ts
+#EXTINF:0 group-title="SPORT" CUID="5158" tvg-name="ESPN U HD (USA)" tvg-logo="https://logo.m3uassets.com/espnu.png",ESPN U HD (USA)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224538.ts
+#EXTINF:0 group-title="SPORT" CUID="5159" tvg-name="ESPN 1 HD (NL)" tvg-logo="https://logo.m3uassets.com/espn1.png",ESPN 1 HD (NL)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224539.ts
+#EXTINF:0 group-title="SPORT" CUID="5160" tvg-name="ESPN 2 HD (NL)" tvg-logo="https://logo.m3uassets.com/espn2.png",ESPN 2 HD (NL)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224540.ts
+#EXTINF:0 group-title="SPORT" CUID="5161" tvg-name="ESPN 3 HD (NL)" tvg-logo="https://logo.m3uassets.com/espn3.png",ESPN 3 HD (NL)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224541.ts
+#EXTINF:0 group-title="SPORT" CUID="5162" tvg-name="ESPN 4 HD (NL)" tvg-logo="https://logo.m3uassets.com/espn4.png",ESPN 4 HD (NL)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/224542.ts
+#EXTINF:0 group-title="SPORT" CUID="103261" tvg-name="MYSPORTS 1 HD (CH)",MYSPORTS 1 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/270321.ts
+#EXTINF:0 group-title="SPORT" CUID="103262" tvg-name="MYSPORTS 2 HD (CH)",MYSPORTS 2 HD (CH)
+http://balkan-live.net/live/andyboydj/pLbouEnHp/270322.ts
+#EXTINF:0 group-title="SPORT" CUID="94422" tvg-name="SK: RTVS ŠPORT HD",SK: RTVS ŠPORT HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261745.ts
+#EXTINF:0 group-title="SPORT" CUID="94423" tvg-name="SK: NOVA SPORT 1 HD",SK: NOVA SPORT 1 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261746.ts
+#EXTINF:0 group-title="SPORT" CUID="94424" tvg-name="SK: NOVA SPORT 2 HD",SK: NOVA SPORT 2 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261747.ts
+#EXTINF:0 group-title="SPORT" CUID="94425" tvg-name="SK: SPORT 1 HD",SK: SPORT 1 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261748.ts
+#EXTINF:0 group-title="SPORT" CUID="94426" tvg-name="SK: SPORT 2 HD",SK: SPORT 2 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261749.ts
+#EXTINF:0 group-title="SPORT" CUID="94427" tvg-name="SK: ARENA SPORT 1 HD",SK: ARENA SPORT 1 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261750.ts
+#EXTINF:0 group-title="SPORT" CUID="94428" tvg-name="SK: ARENA SPORT 2 HD",SK: ARENA SPORT 2 HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261751.ts
+#EXTINF:0 group-title="SPORT" CUID="94429" tvg-name="SK: AUTO MOTOR UND SPORT HD",SK: AUTO MOTOR UND SPORT HD
+http://balkan-live.net/live/andyboydj/pLbouEnHp/261752.ts
+#EXTINF:0 group-title="HRVATSKA" CUID="61" tvg-name="HRT 1" tvg-id="htv1.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/hrt1.png",HRT 1
+http://balkan-live.net/andyboydj/pLbouEnHp/73836
+#EXTINF:0 group-title="HRVATSKA" CUID="62" tvg-name="HRT 1 L2" tvg-id="htv1.hr" tvg-logo="https://logo.m3uassets.com/hrt1.png",HRT 1 L2
+http://balkan-live.net/andyboydj/pLbouEnHp/152170
+#EXTINF:0 group-title="HRVATSKA" CUID="63" tvg-name="HRT 2" tvg-id="htv2.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/hrt2.png",HRT 2
+http://balkan-live.net/andyboydj/pLbouEnHp/73838
+#EXTINF:0 group-title="HRVATSKA" CUID="64" tvg-name="HRT 2 L2" tvg-id="htv2.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/hrt2.png",HRT 2 L2
+http://balkan-live.net/andyboydj/pLbouEnHp/152171
+#EXTINF:0 group-title="HRVATSKA" CUID="65" tvg-name="HRT 3" tvg-id="htv3.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/hrt3.png",HRT 3
+http://balkan-live.net/andyboydj/pLbouEnHp/73840
+#EXTINF:0 group-title="HRVATSKA" CUID="66" tvg-name="HRT 3 L2" tvg-id="htv3.hr" tvg-logo="https://logo.m3uassets.com/hrt3.png",HRT 3 L2
+http://balkan-live.net/andyboydj/pLbouEnHp/152172
+#EXTINF:0 group-title="HRVATSKA" CUID="67" tvg-name="HRT 4" tvg-id="htv4.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/hrt4.png",HRT 4
+http://balkan-live.net/andyboydj/pLbouEnHp/73842
+#EXTINF:0 group-title="HRVATSKA" CUID="68" tvg-name="HRT 4 L2" tvg-id="htv4.hr" tvg-logo="https://logo.m3uassets.com/hrt4.png",HRT 4 L2
+http://balkan-live.net/andyboydj/pLbouEnHp/152173
+#EXTINF:0 group-title="HRVATSKA" CUID="70" tvg-name="NOVA TV" tvg-id="novatv.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/novatv.png",NOVA TV
+http://balkan-live.net/andyboydj/pLbouEnHp/73844
+#EXTINF:0 group-title="HRVATSKA" CUID="71" tvg-name="NOVA TV FHD L2" tvg-id="novatv.hr" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaTV_logo_2019.png",NOVA TV FHD L2
+http://balkan-live.net/andyboydj/pLbouEnHp/134209
+#EXTINF:0 group-title="HRVATSKA" CUID="83" tvg-name="DOMA TV" tvg-id="domatv.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/domatv.png",DOMA TV
+http://balkan-live.net/andyboydj/pLbouEnHp/73846
+#EXTINF:0 group-title="HRVATSKA" CUID="84" tvg-name="DOMA TV HEVC" tvg-id="domatv.hr" tvg-logo="https://logo.m3uassets.com/domatv.png",DOMA TV HEVC
+http://balkan-live.net/andyboydj/pLbouEnHp/174856
+#EXTINF:0 group-title="HRVATSKA" CUID="73" tvg-name="RTL" tvg-id="rtl.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/rtl.png",RTL
+http://balkan-live.net/andyboydj/pLbouEnHp/73848
+#EXTINF:0 group-title="HRVATSKA" CUID="74" tvg-name="RTL L2" tvg-id="rtl.hr" tvg-logo="https://logo.m3uassets.com/rtlhd.png",RTL L2
+http://balkan-live.net/andyboydj/pLbouEnHp/215427
+#EXTINF:0 group-title="HRVATSKA" CUID="75" tvg-name="RTL 2" tvg-id="rtl2.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/rtl2.png",RTL 2
+http://balkan-live.net/andyboydj/pLbouEnHp/133760
+#EXTINF:0 group-title="HRVATSKA" CUID="33867" tvg-name="RTL 2 HEVC (HR) L2" tvg-id="108.hr" tvg-logo="https://logo.m3uassets.com/rtl2.png",RTL 2 HEVC (HR) L2
+http://balkan-live.net/live/andyboydj/pLbouEnHp/237388.ts
+#EXTINF:0 group-title="HRVATSKA" CUID="98" tvg-name="NOVA FAMILY" tvg-id="nova-plus-family" tvg-logo="https://logo.m3uassets.com/novafamily.png",NOVA FAMILY
+http://balkan-live.net/andyboydj/pLbouEnHp/205288
+#EXTINF:0 group-title="HRVATSKA" CUID="99" tvg-name="NOVA WORLD" tvg-id="Nova World.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/novaworld.png",NOVA WORLD
+http://balkan-live.net/andyboydj/pLbouEnHp/221338
+#EXTINF:0 group-title="HRVATSKA" CUID="72" tvg-name="NOVA CINEMA 4K" tvg-id="nova-plus-cinema" tvg-logo="https://logo.m3uassets.com/novacinema.png",NOVA CINEMA 4K
+http://balkan-live.net/andyboydj/pLbouEnHp/114743
+#EXTINF:0 group-title="HRVATSKA" CUID="76" tvg-name="RTL+ PLUS" tvg-id="Super RTL.hr" tvg-logo="https://logo.m3uassets.com/rtlplus.png",RTL+ PLUS
+http://balkan-live.net/andyboydj/pLbouEnHp/192789
+#EXTINF:0 group-title="HRVATSKA" CUID="77" tvg-name="RTL ADRIA" tvg-id="rtl-adria" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/rtladria.png",RTL ADRIA
+http://balkan-live.net/andyboydj/pLbouEnHp/81888
+#EXTINF:0 group-title="HRVATSKA" CUID="46469" tvg-name="RTL PLAY" tvg-logo="https://www.a1.hr/documents/d/a1/rtl-play",RTL PLAY
+http://balkan-live.net/live/andyboydj/pLbouEnHp/245810.ts
+#EXTINF:0 group-title="HRVATSKA" CUID="78" tvg-name="RTL PASSION" tvg-id="rtlpassion.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/rtlpassion.png",RTL PASSION
+http://balkan-live.net/andyboydj/pLbouEnHp/73852
+#EXTINF:0 group-title="HRVATSKA" CUID="79" tvg-name="RTL LIVING" tvg-id="rtlliving.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/rtlliving.png",RTL LIVING
+http://balkan-live.net/andyboydj/pLbouEnHp/73853
+#EXTINF:0 group-title="HRVATSKA" CUID="80" tvg-name="RTL CRIME" tvg-id="rtlcrime.hr" catchup-type="xc" catchup-days="3" tvg-logo="https://logo.m3uassets.com/rtlcrime.png",RTL CRIME
+http://balkan-live.net/andyboydj/pLbouEnHp/73854
+#EXTINF:0 group-title="HRVATSKA" CUID="81" tvg-name="RTL CRIME L2" tvg-id="rtlcrime.hr" tvg-logo="https://logo.m3uassets.com/rtlcrimehd.png",RTL CRIME L2
+http://balkan-live.net/andyboydj/pLbouEnHp/201454
+#EXTINF:0 group-title="HRVATSKA" CUID="82" tvg-name="RTL CROATIA WORLD" tvg-id="rtl-croworld" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0e/RTL_Croatia_World_%282016-.n.v.%29.png",RTL CROATIA WORLD
+http://balkan-live.net/andyboydj/pLbouEnHp/161220
